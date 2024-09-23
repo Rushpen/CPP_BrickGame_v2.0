@@ -44,7 +44,7 @@ In the Snake game, the class library managing the game mechanics functions as th
 
 The view contains all the code associated with the program interface. There should be no business logic in the code of a perfect interface. It is just a form for user interaction.
 
-![MVC-Process](misc/images/MVC-Process.png)
+![MVC-Process](dvi/media/MVC-Process.png)
 
 ## Chapter II 
 ## Project Requirements
