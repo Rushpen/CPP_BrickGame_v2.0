@@ -114,31 +114,31 @@ Add level mechanics to the game. Each time a player gains 5 points, the level in
 4) run `make run_cli` to start play in cli.
 5) run `make run_desktop` to start play in desktop.
 
-![make install](src/dvi/media/install_cli_run.gif)
+![make install](dvi/media/install_cli_run.gif)
 
 ## Show Game
 
 ## Tetris CLI Gameplay
 
-![Tetris CLI Gameplay](src/dvi/media/tetris_cli.gif)
+![Tetris CLI Gameplay](dvi/media/tetris_cli.gif)
 
 ## Snake CLI Gameplay
 
-![Snake CLI Gameplay](src/dvi/media/snake_cli.gif)
+![Snake CLI Gameplay](dvi/media/snake_cli.gif)
 
 ## Tetris Desktop Gameplay
 
-![Tetris Desktop Gameplay](src/dvi/media/tetris_desktop.gif)
+![Tetris Desktop Gameplay](dvi/media/tetris_desktop.gif)
 
 ## Snake Desktop Gameplay
 
-![Snake Desktop Gameplay](src/dvi/media/snake_desktop.gif)
+![Snake Desktop Gameplay](dvi/media/snake_desktop.gif)
 
 
 ## Finite State Machine (FSM) Diagram Tetris
 
-![My diagram](src/dvi/media/fsm_tetris.png)
+![My diagram](dvi/media/fsm_tetris.png)
 
 ## Finite State Machine (FSM) Diagram Snake
 
-![My diagram](src/dvi/media/fsm_snake.png)
+![My diagram](dvi/media/fsm_snake.png)
